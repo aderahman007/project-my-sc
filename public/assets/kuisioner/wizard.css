@@ -1,0 +1,231 @@
+.f1-steps {
+    overflow: hidden;
+    position: relative;
+    margin-top: 20px;
+}
+
+.f1-progress {
+    position: absolute;
+    top: 24px;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background: #ddd;
+}
+
+.f1-progress-line {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 1px;
+    background: #338056;
+}
+
+.f1-step {
+    position: relative;
+    float: left;
+    width: 100%;
+    padding: 0 5px;
+}
+
+
+.f1-step-icon {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin-top: 4px;
+    background: #ddd;
+    font-size: 16px;
+    color: #fff;
+    line-height: 40px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.f1-step.activated .f1-step-icon {
+    background: #fff;
+    border: 1px solid #338056;
+    color: #338056;
+    line-height: 38px;
+}
+
+.f1-step.active .f1-step-icon {
+    width: 48px;
+    height: 48px;
+    margin-top: 0;
+    background: #338056;
+    font-size: 22px;
+    line-height: 48px;
+}
+
+.f1-step p {
+    color: #ccc;
+}
+
+.f1-step.activated p {
+    color: #338056;
+}
+
+.f1-step.active p {
+    color: #338056;
+}
+
+.f1 fieldset {
+    display: none;
+    text-align: left;
+}
+
+.f1-buttons {
+    text-align: right;
+}
+
+.f1 .input-error {
+    border-color: #f35b3f;
+}
+
+.form-check-inline {
+    position: static;
+    margin-top: 0;
+    margin-right: .3125rem;
+    margin-left: 33px;
+}
+.form-check-input{
+    position: static;
+    margin-top: 0;
+    margin-right: .3125rem;
+    margin-left: 4px;
+}
+
+.sekolah{
+    font-weight: 500;
+    font-size: 1em;  
+    margin-bottom: -0.5rem;
+}
+
+.text{
+    margin-top: -1rem;
+    font-size: 14px;
+    margin-bottom: 1rem;
+}
+.form-check-input2{
+    margin-top: 0;
+    margin-left: 0;
+}
+
+
+
+.f2-steps {
+    overflow: hidden;
+    position: relative;
+    margin-top: 20px;
+}
+
+.f2-progress {
+    position: absolute;
+    top: 24px;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background: #ddd;
+}
+
+.f2-progress-line {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 1px;
+    background: #338056;
+}
+
+.f2-step {
+    position: relative;
+    float: left;
+    width: 100%;
+    padding: 0 5px;
+}
+
+
+.f2-step-icon {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin-top: 4px;
+    background: #ddd;
+    font-size: 16px;
+    color: #fff;
+    line-height: 40px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.f2-step.activated .f2-step-icon {
+    background: #fff;
+    border: 1px solid #338056;
+    color: #338056;
+    line-height: 38px;
+}
+
+.f2-step.active .f2-step-icon {
+    width: 48px;
+    height: 48px;
+    margin-top: 0;
+    background: #338056;
+    font-size: 22px;
+    line-height: 48px;
+}
+
+.f2-step p {
+    color: #ccc;
+}
+
+.f2-step.activated p {
+    color: #338056;
+}
+
+.f2-step.active p {
+    color: #338056;
+}
+
+.f2 fieldset {
+    display: none;
+    text-align: left;
+}
+
+.f2-buttons {
+    text-align: right;
+}
+
+.f2 .input-error {
+    border-color: #f35b3f;
+}
+
+.form-check-inline {
+    position: static;
+    margin-top: 0;
+    margin-right: .3125rem;
+    margin-left: 33px;
+}
+.form-check-input{
+    position: static;
+    margin-top: 0;
+    margin-right: .3125rem;
+    margin-left: 4px;
+}
+
+.sekolah{
+    font-weight: 500;
+    font-size: 1em;  
+    margin-bottom: -0.5rem;
+}
+
+.text{
+    margin-top: -1rem;
+    font-size: 14px;
+    margin-bottom: 1rem;
+}
+.form-check-input2{
+    margin-top: 0;
+    margin-left: 0;
+}
